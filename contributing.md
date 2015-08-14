@@ -1,14 +1,22 @@
 # Contributing to Open Source
 
 Contributing to Open Source allows people to be able to give back and help
-out on projects that they use frequenty. Whether adding a feature
-to a project, fixing a bug, or adding documentation, it allows communities
-to form out of these projects.
+out on projects that they use frequenty. Tasks such as writing documentation,
+finding and/or fixing bugs in the source code, and helping develop features
+for a project help increase one's role in the open source community.
+
+## Before you begin
+
+Just as a warning, this guide highly focuses on using Git and GitHub, two
+large systems for managing open source software. This does not focus on
+non-distributed version control systems such as Subversion. Even though this
+focuses on Github, many subjects explained below are also relevant on other
+sites that also support Git such as Bitbucket.
 
 ## Where to find projects
 
 Many widely known projects such as Firefox and VLC are open sourced and welcome
-contributions from newcomers.Sites such as GitHub or Bitbucket allow software
+contributions from newcomers. Sites such as GitHub or Bitbucket allow software
 to be hosted on Repositories and shared with the world.
 
 If there is a project that one uses frequently, it's possible to contribute
@@ -29,7 +37,7 @@ repository on your own GitHub account so you can make changes to the codebase.
 
 ## Issues
 
-If someone has a problem with a piece of Open Source Software, they can add
+If someone has a problem with a piece of Open Source Software, they can post
 issues to the project's repository or a specified bug tracker, depending on
 the size of the project. The issues can include a bug discovered in the code,
 a feature that seems relevant to the codebase that would be useful if added,
@@ -42,14 +50,14 @@ bugs in software or make a better understanding on how the project works.
 
 ## Documentation
 
-A resource that allows users of a piece of software to understand how to use
-it is the documentation. documentation consists of an overview of what the 
-sofware is, how to install and use the it, common issues and troubleshooting,
-and ways of contributing to the project. These documents are not final products
-and are often updated to include more information to contributors or users of
-the project or to make the current documentation easier to understand.
-contributors are often able to contribute to this documentation and help out
-the maintainers of the project, and the process is explained in the next section.
+Documentation is a helpful resource when developing Open Source Software.
+Documenting a project allows users to understand its purpose and how to
+use it. A simple way of contributing to a project is either modifying or
+adding documentation. If a feature is undocumented, one can write about
+its usage. Note that one should write in the style of existing documentation to
+keep the style of the entire documentation consistent. After writing or
+editing documentation, a contributor can submit it to the maintainers
+as a Pull Request, which is explained below. 
 
 ## Branching and Pull Requests
 
@@ -74,8 +82,16 @@ into the official codebase.
 ## Other ways of contributing to communities and projects
 
 Other than the ways included above, there are plenty of other ways to give back
-to these projects. Many projects may have forums, user groups, mailing lists, and/or
-chatrooms to allow informal discussions on these projects. Helping other
+to these projects. Many projects may have forums, user groups, mailing lists,
+and/or chatrooms to allow informal discussions on these projects. Helping other
 members of the community with their questions and issues is also resourceful
 since nobody is an expert on everything, but collectively, communities around
 Open Source Software are happy to help out with any concerns.
+
+## More Information
+
+More information about GitHub and Git can be found at these websites.
+
+[Official Git Website](https://git-scm.com/)
+
+[GitHub Flow article](https://guides.github.com/introduction/flow/)
